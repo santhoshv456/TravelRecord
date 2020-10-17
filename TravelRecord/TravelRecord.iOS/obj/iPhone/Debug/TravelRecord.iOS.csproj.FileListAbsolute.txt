@@ -57,3 +57,14 @@ C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\obj\iPhone\
 C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\obj\iPhone\Debug\TravelRecord.iOS.csproj.CopyComplete
 C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\obj\iPhone\Debug\TravelRecord.iOS.exe
 C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\obj\iPhone\Debug\TravelRecord.iOS.pdb
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\SQLiteNetStandard.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.IO.Compression.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\omm\source\repos\TravelRecord\TravelRecord\TravelRecord.iOS\bin\iPhone\Debug\System.Security.Cryptography.X509Certificates.dll

@@ -6,6 +6,7 @@ namespace TravelRecord
 {
     public partial class App : Application
     {
+        public static string databaseLocation = string.Empty;
         public App()
         {
             InitializeComponent();
@@ -13,6 +14,14 @@ namespace TravelRecord
             MainPage = new NavigationPage(new MainPage());
         }
 
+        public App(string DatabaseConnetion)
+        {
+            InitializeComponent();
+
+            MainPage = new NavigationPage(new MainPage());
+
+            databaseLocation = DatabaseConnetion;
+        }
         protected override void OnStart()
         {
         }
